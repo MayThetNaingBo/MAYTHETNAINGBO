@@ -1,4 +1,4 @@
-# 🤗 Hello!! My name is May Thet Naing Bo. You can call me May𐙚
+# •ᴗ• Hello!! My name is May Thet Naing Bo. You can call me May.
 
 💼 Software Developer focused on building full-stack, AI-powered, and cloud-ready applications.
 
