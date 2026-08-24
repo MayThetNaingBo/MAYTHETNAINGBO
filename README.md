@@ -18,6 +18,6 @@ JavaScript | TypeScript | React | Next.js | Node.js | NestJS | Express | Postgre
 - MerlionFX — Currency exchange web application
 
 ## 🌐 Contact
-- Portfolio: https://www.yhwinfo.xyz/
+- Portfolio: https://maythetnaingbo.com/
 - LinkedIn: https://www.linkedin.com/in/may-thet-naing-bo/
 - Email: maythetnaingbo.contact@gmail.com
